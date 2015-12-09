@@ -1,0 +1,39 @@
+{
+  "post": {
+    "id": "759985267390294_1159949337393883",
+    "level": 0,
+    "group": "759985267390294",
+    "parent": "759985267390294",
+    "from": "10153044300389402",
+    "fromName": "Alex Kern",
+    "type": "status",
+    "message": "asldkjf",
+    "created": "2015-12-09T09:42:11.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [
+      {
+        "id": "1159949364060547",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1159949337393883",
+        "from": "10153044300389402",
+        "fromName": "Alex Kern",
+        "type": "comment",
+        "message": "/delete",
+        "created": "2015-12-09T09:42:16.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [],
+        "isMod": true,
+        "command": "delete",
+        "version": "a8bcfea200fd6853b73e2478a7e8b80b40dec907"
+      }
+    ],
+    "isMod": true,
+    "command": null,
+    "version": "471d40a907028e41fe817884c28f9231822cd76f"
+  }
+}
