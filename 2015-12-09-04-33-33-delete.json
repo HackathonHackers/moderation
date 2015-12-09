@@ -1,0 +1,57 @@
+{
+  "post": {
+    "id": "759985267390294_1159946680727482",
+    "level": 0,
+    "group": "759985267390294",
+    "parent": "759985267390294",
+    "from": "10153044300389402",
+    "fromName": "Alex Kern",
+    "type": "status",
+    "message": "test",
+    "created": "2015-12-09T09:33:05.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [
+      {
+        "id": "1159946777394139",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1159946680727482",
+        "from": "10205973041271792",
+        "fromName": "David Steinberg",
+        "type": "comment",
+        "message": "yo",
+        "created": "2015-12-09T09:33:27.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [],
+        "isMod": false,
+        "command": null,
+        "version": "01334054102cd1be735968703596157753d56a80"
+      },
+      {
+        "id": "1159946794060804",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1159946680727482",
+        "from": "10153044300389402",
+        "fromName": "Alex Kern",
+        "type": "comment",
+        "message": "/delete",
+        "created": "2015-12-09T09:33:29.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [],
+        "isMod": true,
+        "command": "delete",
+        "version": "ad553148b910e8f06a4b42f73b6dc50ca19ad3ff"
+      }
+    ],
+    "isMod": true,
+    "command": null,
+    "version": "3338685fb3f1462ed627b1e5b2fadfac08d33ebf"
+  }
+}
