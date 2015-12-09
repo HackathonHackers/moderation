@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1159950694060414",
+    "level": 1,
+    "group": "759985267390294",
+    "parent": "759985267390294_1159950690727081",
+    "from": "10153044300389402",
+    "fromName": "Alex Kern",
+    "type": "comment",
+    "message": "/close",
+    "created": "2015-12-09T09:48:16.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "727c4819e1d35df5ac2ffa743980c3e367e9965d"
+  }
+}
