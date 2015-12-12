@@ -1,0 +1,113 @@
+{
+  "post": {
+    "id": "759985267390294_1161299247258892",
+    "level": 0,
+    "group": "759985267390294",
+    "parent": "759985267390294",
+    "from": "699423126825406",
+    "fromName": "Robert Rose",
+    "type": "status",
+    "message": "So if Dave doesn't defer to the community and turn over control of HH to another mod can we ban him from all hackathons permanently?",
+    "created": "2015-12-12T07:59:10.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [
+      {
+        "id": "1161300760592074",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1161299247258892",
+        "from": "769519416451710",
+        "fromName": "Nelson Gomez",
+        "type": "comment",
+        "message": "That'd be a pretty harsh step to take, though I'd expect him to be lying low for the time being anyway.\n\nAs far as the mod situation goes, have you considered joining Hackers instead? \nhttps://m.facebook.com/groups/1659221770989008?ref=m_notif&notif_t=group_comment",
+        "created": "2015-12-12T08:02:31.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [
+          {
+            "id": "1161303313925152",
+            "level": 1,
+            "group": "759985267390294",
+            "parent": "1161300760592074",
+            "from": "699423126825406",
+            "fromName": "Robert Rose",
+            "type": "comment",
+            "message": "Have joined hackers but I think people power tripping like he is are toxic and they don't belong at hackathons.",
+            "created": "2015-12-12T08:13:15.000Z",
+            "place": null,
+            "tags": [],
+            "link": null,
+            "comments": [],
+            "isMod": false,
+            "command": null,
+            "version": "e530101e6f0a70b3e0401005c7677159407af427"
+          }
+        ],
+        "isMod": false,
+        "command": null,
+        "version": "0182fedf0a8d2f3a56c1e9a6ef5a5cae70b45fff"
+      },
+      {
+        "id": "1161301503925333",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1161299247258892",
+        "from": "1620140984868542",
+        "fromName": "Arvind Iyer",
+        "type": "comment",
+        "message": "How is doing that to Dave a fair solution to this issue?",
+        "created": "2015-12-12T08:05:14.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [
+          {
+            "id": "1161303167258500",
+            "level": 1,
+            "group": "759985267390294",
+            "parent": "1161301503925333",
+            "from": "699423126825406",
+            "fromName": "Robert Rose",
+            "type": "comment",
+            "message": "Because he has failed to respond in a way that satisfies the community. Since he has dictatorial powers over HH there's no real way we can act. What we can do is block him from taking part in the community he is oppressing. It is a drastic action, but short of hacking into his account, there's nothing we can do.",
+            "created": "2015-12-12T08:12:34.000Z",
+            "place": null,
+            "tags": [],
+            "link": null,
+            "comments": [],
+            "isMod": false,
+            "command": null,
+            "version": "73cd7d73bc9b39dcc5558acfc3f3152b1b8a2a52"
+          }
+        ],
+        "isMod": false,
+        "command": null,
+        "version": "59e981286cb3b679e8cc1bb3f595e9900fe33cc1"
+      },
+      {
+        "id": "1161305133924970",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1161299247258892",
+        "from": "10205329130164690",
+        "fromName": "Hallie Lomax",
+        "type": "comment",
+        "message": "/delete personal attack",
+        "created": "2015-12-12T08:20:58.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [],
+        "isMod": true,
+        "command": "delete",
+        "version": "5f7116e33109913b3e288e666cdb5a30c9a1bd3e"
+      }
+    ],
+    "isMod": false,
+    "command": null,
+    "version": "f22555c3d769ee2fe479f9b725ccef50c1077589"
+  }
+}
