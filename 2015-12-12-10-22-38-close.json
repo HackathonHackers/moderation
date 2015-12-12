@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1161344097254407",
+    "level": 1,
+    "group": "759985267390294",
+    "parent": "759985267390294_1161185610603589",
+    "from": "10205329130164690",
+    "fromName": "Hallie Lomax",
+    "type": "comment",
+    "message": "/close",
+    "created": "2015-12-12T10:21:59.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "3759dd17c7a6324a3b01f62c48e407fb9eeac29a"
+  }
+}
