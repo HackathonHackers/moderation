@@ -1,0 +1,44 @@
+{
+  "post": {
+    "id": "759985267390294_1172719679450182",
+    "level": 0,
+    "group": "759985267390294",
+    "parent": "759985267390294",
+    "from": "3079220455739",
+    "fromName": "Anonymous",
+    "type": "link",
+    "message": "Currently hiring SWE's for Google for Work Labs. Position has openings in Mountain View, San Francisco, and London.\n\nhttps://www.google.com/about/careers/search#!t=jo&jid=90795001&\n\nGoogle for Work Labs/Incubation is a skunk works R&D team working inside of Google's Enterprise division, coming up with the next big google B2B product\n\nThe team operates as a startup, and has internal funding rounds for each of our ideas. On a regular basis our teams interact with [x], life-sciences, ventures, and other alphabet companies.\n\nThe team tries to solve the following question: What business technology need is currently going unsolved, that can be built today, where google has a distinct advantage.\n\nOnce we identify a product which meets that criteria, we'll evaluate and potentially create an MVP and raise a seed fund (from google). If the project's successful we'll keep going through funding rounds and raising money internally.\n\nAs a prototype engineer, you'll get to write software for custom circuit-boards & hardware, embedded computing, cloud computing, big data, mobile apps, and web-apps.\n\nWe're looking for candidates with a strong software background, and an understating of product. Feel free to email me directly at bookman@google.com with your resume and a link to your github.",
+    "created": "2016-01-01T17:55:02.000Z",
+    "place": null,
+    "tags": [],
+    "link": {
+      "url": "https://www.google.com/about/careers/search#!t=jo&jid=90795001",
+      "caption": "google.com",
+      "description": "Search all jobs at Google. Do cool things that matter. On Google Careers you can search, find, and apply to the opportunities that are the right fit for you at Google. Search and filter for jobs at Google. Star jobs for later viewing. Create email updates for your searches. Connect with the people y…",
+      "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB19uaI-1Tt0TQF&w=130&h=130&url=https%3A%2F%2Fwww.google.com%2Fsearch%2Fimages%2Fgoogle.png&cfs=1"
+    },
+    "comments": [
+      {
+        "id": "1172803446108472",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1172719679450182",
+        "from": "10205329130164690",
+        "fromName": "Hallie Lomax",
+        "type": "comment",
+        "message": "/delete job listing",
+        "created": "2016-01-01T21:44:04.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [],
+        "isMod": true,
+        "command": "delete",
+        "version": "a27a8b363c1896dc07b52ef217923ba0a2083169"
+      }
+    ],
+    "isMod": false,
+    "command": null,
+    "version": "ac6814ce08d367a0e09eccd5cb6523d359c01934"
+  }
+}
