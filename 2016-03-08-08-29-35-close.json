@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "966180093437476",
+    "level": 1,
+    "group": "759985267390294",
+    "parent": "759985267390294_966179966770822",
+    "from": "10153550982967468",
+    "fromName": "Evadora de Zhengia",
+    "type": "comment",
+    "message": "/thread",
+    "created": "2015-01-17T13:38:52.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "thread",
+    "version": "8e01ae1b7fb54abfed8ba7588372ab8451012147"
+  }
+}
